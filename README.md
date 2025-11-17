@@ -1,6 +1,6 @@
 # Capstone_JustDrinksLtd_Power_BI
 
-# JustDrinks Ltd. - Sales & Inventory Intelligence Dashboard
+# JustDrinks Ltd. -  Business Intelligence Dashboard
 
 ## 📊 Project Overview
 
