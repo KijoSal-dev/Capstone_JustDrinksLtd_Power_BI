@@ -52,15 +52,15 @@ JustDrinks Ltd. faced challenges in consolidating data across inventory purchasi
 
 ### Sales Overview
 *Analysis of product sizes and revenue distribution.*
-*(Insert Screenshot 1 here)*
+*sales.png*
 
 ### Profitability & Vendors
 *Top vendors by sales value and store profitability rankings.*
-*(Insert Screenshot 2 here)*
+*vendors.png*
 
 ### Inventory Intelligence
 *Seasonal patterns and inventory purchase vs. sold trends.*
-*(Insert Screenshot 3 here)*
+*inventory.png*
 
 ## 🚀 How to Use
 
